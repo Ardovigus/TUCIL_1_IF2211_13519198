@@ -1,5 +1,5 @@
 # TUCIL 1 IF2211: Cryptarithmetic Solver dengan Algoritma Brute Force
-<center><img src = "bin/New folder/Untitled-2.png" width = 200px></center><br>
+<p align = center><img src = "bin/New folder/Untitled-2.png" width = 200px></p>
 Program ini dibuat untuk memenuhi tugas kecil dari mata kuliah IF2211 Strategi Algoritma Semester 2 tahun 2020/2021. Program memiliki fungsi mencari solusi dari suatu persoalan cryptarithmetic dengan menggunakan algoritma <b>Brute Force</b>. 
 <br><br>Secara sederhana, pertama program membuka file berisi persoalan cryptarithmetic. Kemudian program <b>membuat himpunan</b> huruf yang muncul dalam persoalan tersebut. Lalu, program menghasilkan <b>permutasi</b> dari 10 digit yang mungkin, kemudian himpunan huruf sebelumnya dibuat <b>mapping</b> ke hasil permutasi tadi. Terakhir, program meng<b>kalkulasi</b> hasil substitusi terhadap operand dan hasil. Jika hasilnya sama, akan ditampilkan mapping yang digunakan, jika tidak, dicari mapping permutasi yang lain hingga seluruh permutasi selesai.
 
