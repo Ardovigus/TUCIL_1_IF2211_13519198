@@ -1,7 +1,0 @@
-THREE
-THREE
-TWO
-TWO
-ONE+
------
-ELEVEN
